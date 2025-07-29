@@ -23,7 +23,7 @@ Adicionando linha de código no tasks.json e keybindings.json
 
 - keybindings.json:
     
-        Para acessa use ctrl+K e ctrl + s em seguida vá <img src="Captura de tela 2025-07-29 002543.png" alt="Figurinha" width="100"/> e abrir o keybindings.json
+         Para acessa use ctrl+K e ctrl + s em seguida vá em Open keybindings shortcuts(json) <img src="Captura de tela 2025-07-29 002543.png" alt="Figurinha" width="100"/> e abrir o keybindings.json
         {
         "key": "shift+alt+b",
         "command": "workbench.action.tasks.runTask",
